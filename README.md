@@ -11,11 +11,11 @@ The proposed TSM (Time-Specifier Model Merging) approach enhances temporal infor
 The fine-tuned models used in the paper is available on HuggingFace.
 
 ### Contriever-based
-[seungyoonee/tsm-contriever](https://huggingface.co/seungyoonee/tsm-contriever)
+- [seungyoonee/tsm-contriever](https://huggingface.co/seungyoonee/tsm-contriever)
 
 ### DPR-based
-[seungyoonee/tsm-dpr-question](https://huggingface.co/seungyoonee/tsm-dpr-question)
-[seungyoonee/tsm-dpr-context](https://huggingface.co/seungyoonee/tsm-dpr-context)
+- [seungyoonee/tsm-dpr-question](https://huggingface.co/seungyoonee/tsm-dpr-question)
+- [seungyoonee/tsm-dpr-context](https://huggingface.co/seungyoonee/tsm-dpr-context)
 
 ## Installation
 
