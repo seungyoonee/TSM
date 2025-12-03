@@ -1,8 +1,8 @@
 # Temporal Information Retrieval via Time-Specifier Model Merging (TSM)
 
-This repository contains the code and resources for the research paper "Temporal Information Retrieval via Time-Specifier Model Merging".
+This repository contains the code and resources for the research paper ["Temporal Information Retrieval via Time-Specifier Model Merging"](https://arxiv.org/abs/2507.06782) (KnowFM@ACL 2025).
 
-## Methodology
+## Overview
 
 The proposed TSM (Time-Specifier Model Merging) approach enhances temporal information retrieval by training separate retrieval models for different time specifiers (e.g., after, between, in early). These specialized models are then merged into a single, robust model using parameter averaging. This allows the final model to effectively handle various temporal granularities without the computational cost of maintaining multiple models at inference time.
 
