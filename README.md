@@ -19,6 +19,9 @@ The fine-tuned models used in the paper is available on HuggingFace.
 
 ## Installation
 
+### Requirements
+- Python 3.11.14 or higher
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/seungyoonee/TSM.git
