@@ -1,6 +1,6 @@
 # Temporal Information Retrieval via Time-Specifier Model Merging (TSM)
 
-This repository contains the code and resources for the research paper "Temporal Information Retrieval via Time-Specifier Model Merging (TSM)".
+This repository contains the code and resources for the research paper "Temporal Information Retrieval via Time-Specifier Model Merging".
 
 ## Methodology
 
@@ -8,14 +8,14 @@ The proposed TSM (Time-Specifier Model Merging) approach enhances temporal infor
 
 ## Model
 
-The fine-tuned model used in the paper is available on HuggingFace:
+The fine-tuned models used in the paper is available on HuggingFace.
 
 ### Contriever-based
 [seungyoonee/tsm-contriever](https://huggingface.co/seungyoonee/tsm-contriever)
 
 ### DPR-based
-- [seungyoonee/tsm-dpr-question](https://huggingface.co/seungyoonee/tsm-dpr-question)
-- [seungyoonee/tsm-dpr-context](https://huggingface.co/seungyoonee/tsm-dpr-context)
+[seungyoonee/tsm-dpr-question](https://huggingface.co/seungyoonee/tsm-dpr-question)
+[seungyoonee/tsm-dpr-context](https://huggingface.co/seungyoonee/tsm-dpr-context)
 
 ## Installation
 
