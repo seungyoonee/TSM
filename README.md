@@ -1,6 +1,6 @@
 # Temporal Information Retrieval via Time-Specifier Model Merging (TSM)
 
-This repository contains the code and resources for the research paper ["Temporal Information Retrieval via Time-Specifier Model Merging"](https://arxiv.org/abs/2507.06782) (KnowFM@ACL 2025).
+This repository contains the code and resources for the paper ["Temporal Information Retrieval via Time-Specifier Model Merging"](https://arxiv.org/abs/2507.06782) (KnowFM@ACL 2025).
 
 ## Overview
 
